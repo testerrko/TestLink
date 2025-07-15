@@ -1,0 +1,10 @@
+	[25/Jul/15 07:42:21][AUDIT][td4jiase1isv6rsnuvd5v5vpsc][GUI]
+		Login for 'admin' from '::1' succeeded
+	[25/Jul/15 07:42:51][AUDIT][td4jiase1isv6rsnuvd5v5vpsc][GUI]
+		Logout of 'admin'
+	[25/Jul/15 08:00:55][AUDIT][td4jiase1isv6rsnuvd5v5vpsc][GUI]
+		Login for 'admin' from '::1' succeeded
+	[25/Jul/15 08:02:00][AUDIT][td4jiase1isv6rsnuvd5v5vpsc][GUI]
+		User 'admin' was saved
+	[25/Jul/15 08:10:40][AUDIT][td4jiase1isv6rsnuvd5v5vpsc][GUI - Test Project ID : 1]
+		Test Project 'Sample Project Demo' was created
